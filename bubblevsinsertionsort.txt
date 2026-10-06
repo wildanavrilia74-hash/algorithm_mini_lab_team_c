@@ -1,0 +1,10 @@
+
+Both algorithms produced the same sorted result.
+However, they perform their operations differently.
+
+Bubble Sort repeatedly compares neighboring elements and swaps them.
+
+Insertion Sort takes an element and inserts it into its correct
+position among the previously sorted elements.
+
+Changing the input changes the number of operations required.
