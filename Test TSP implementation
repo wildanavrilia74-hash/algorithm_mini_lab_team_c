@@ -1,0 +1,16 @@
+## Task
+
+Test the TSP program using different distance matrices.
+
+## Requirements
+
+- Run the original test.
+- Change distances.
+- Predict the route.
+- Run the program.
+- Compare the results.
+- Explain how changing distances affects the route.
+
+## Deliverable
+
+TSP test results and screenshots.
