@@ -1,0 +1,18 @@
+## Task
+
+Implement Bubble Sort and Insertion Sort in Go.
+
+## Requirements
+
+- Test both algorithms using the same input.
+- Compare their results.
+- Observe the number of operations/comparisons if possible.
+- Document the differences.
+
+## Expected Output
+
+Both algorithms should correctly sort the input.
+
+## Assigned to
+
+Moazma
