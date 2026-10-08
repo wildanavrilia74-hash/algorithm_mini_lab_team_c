@@ -1,0 +1,18 @@
+## Task
+
+Review the BFS and DFS implementations.
+
+## Requirements
+
+- Test BFS.
+- Test DFS.
+- Compare traversal order.
+- Change the graph.
+- Predict the result.
+- Run the program.
+- Explain the observed result.
+- Document issues and improvements.
+
+## Deliverable
+
+review.md
